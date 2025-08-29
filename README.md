@@ -55,7 +55,7 @@ The notebook provides the following charts for analysis:
 #### 1. **ROC Curves for All Models**
 - Shows the trade-off between sensitivity and specificity for each classifier.
 - Example:
-  ![ROC Curve Example](docs/images/roc_curve_example.png)
+  ![My Image](assets/1.jpg)
 
 #### 2. **Confusion Matrices**
 - Visualizes classification performance for each model.
