@@ -54,19 +54,11 @@ The notebook provides the following charts for analysis:
 
 #### 1. **ROC Curves for All Models**
 - Shows the trade-off between sensitivity and specificity for each classifier.
-- Example:
-  ![My Image](assets/1.jpg)
+![Image Alt](https://github.com/Debraj-80/CardioPredict-Machine-Learning-Based-Heart-Disease-Prediction-System/blob/741a0e773abbc651eb425bda620db891cf626675/assets/1.png)
 
-#### 2. **Confusion Matrices**
-- Visualizes classification performance for each model.
-- Example:
-  ![Confusion Matrix Example](docs/images/confusion_matrix_example.png)
-
-#### 3. **Bar Charts for Metric Comparison**
+#### 2. **Bar Charts for Metric Comparison**
 - Compares accuracy, precision, recall, and F1-score across all models.
-- Example:
-  ![Bar Chart Example](docs/images/bar_chart_example.png)
-
+![Image Alt](https://github.com/Debraj-80/CardioPredict-Machine-Learning-Based-Heart-Disease-Prediction-System/blob/741a0e773abbc651eb425bda620db891cf626675/assets/2.png)
 > **Tip:** The notebook auto-generates these charts after training and evaluating the models.
 
 ---
