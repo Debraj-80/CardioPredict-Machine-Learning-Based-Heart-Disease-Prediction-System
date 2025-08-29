@@ -126,4 +126,4 @@ This project currently does not specify a license.
 Developed by [Debraj-80](https://github.com/Debraj-80).
 
 ---
-*Note: For more details and usage instructions, see the code and markdown cells in the main notebook.*
+
